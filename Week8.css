@@ -1,0 +1,46 @@
+#main-header{
+    text-align:center;
+    background-color:#7E354E;
+    color:#EDC9AF;
+    padding:15px;
+}
+
+#header{
+    color:#7E354E
+}
+
+#nav1{
+    text-align:center;
+}
+
+#nav2{
+    text-align:center;
+}
+
+.column {
+    float: left;
+    width: 50%;
+}
+    
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+img {
+    border-radius: 15px;
+    width: 420px;
+}
+
+table, td, th {
+    padding: 10px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+}
